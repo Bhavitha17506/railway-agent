@@ -1,3 +1,4 @@
+
 # 🚆 RailGuard AI
 ### AI-Powered Railway Inspection & Predictive Maintenance Platform
 
@@ -142,3 +143,6 @@ Open your browser at `http://localhost:5173`.
 
 > **IMPORTANT REGULATORY NOTICE**:
 > RailGuard AI is a software prototype and decision-support simulation platform. AI-generated anomaly predictions, sensor anomalies, and deterioration indices must NOT be treated as certified railway safety decisions without physical on-track verification by a licensed railway infrastructure engineer in compliance with local railway safety regulations.
+
+# railway-agent
+>>>>>>> 7efa6e9558ddc99a84025c9f3795e03bbf23b2ae
