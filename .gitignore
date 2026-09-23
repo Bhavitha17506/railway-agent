@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+db.sqlite3
+media/
+!media/.gitkeep
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# Secrets & Environment
+.env
+.env.local
+
+# Logs
+*.log
